@@ -1,104 +1,75 @@
 =================
-Charles O'Farrell
+Carlos Chavarría Fabón
 =================
 
 .. class:: personal
 
-    **email** charleso@gmail.com
+    **email** carlos.chavarria@gmail.com
 
-    **mobile** 0407597892
-
-    **twitter** `charlesofarrell <http://twitter.com/charlesofarrell/>`_
-
-    **github** `charleso <https://github.com/charleso/>`_
-
-    **bitbucket** `cofrarell <https://bitbucket.org/cofarrell/>`_
-
-    **blog** http://blog.charleso.org/
+    **github** `charleso <https://github.com/CarlosChavarria/>`_
 
 Professional Experience
 =======================
 
-NICTA_
+
+Global Planning Solutions_ https://www.gps-plan.com/
+-------
+**Junior Developer**
+
+- Development in Visual C++ of WorkPlanner, human resources management tool focused on the sanitary sector. 
+    + Creation of libraries for the product license control.
+    + Development of application dialogs.
+
+*2007-2008*
+
+Tactic Key Consulting_ https://www.tactickco.com
 ------
 
-.. _NICTA: https://www.nicta.com.au/
+**Junior Consultant**
+- Development of Banc Sabadell financial reporting.
+    + Data management and visualization with Cognos BI, 
+- Development of AGBAR’s group reporting system and management control.
+    + Oracle ESSBASE, Oracle Financial Reporting
+- Development of Planeta, Piñero and Odigeo groups financial consolidation system    
+    + Oracle Business Intelligence Enterprise Edition and Financial Data Quality Management.
+    + Business Objects
 
-**Senior Software Developer**
-*June 2014 - Present*
+Finixer Sports Innovation S.L_
+------
+**Enterpreneur**
+-Business models researching and business plan development for Finixer, inchoate social network for sportsmen.
+- Content responsible: 
+    + Content crawling (PHP) and batch process implementation of excel results files (VBA).
+- Database Management
+    +MySQL
+- Communication area responsible and comunity manager:
+    +Written and verbal skills.
 
-Atlassian_
-----------
 
-.. _Atlassian: https://www.atlassian.com
 
-**Senior Software Developer**
-*Jan 2012 - June 2014*
-
-- Senior Developer on Stash_, involved with all stages of the development cycle.
-  From feature planning, to implementation and support.
-- Git expert:
-
-    + Ran a Git Pro Bootcamp class for new Atlassian_ employees.
-    + Converted a large number of SVN repositories to Git.
-    + http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/
-
-- Introduced FP into various of Stash_:
-
-    + Wrote a number of Scala plugins for implementing server-side functionality.
-    + Extended use of Underscore.js with a custom library.
-    + Bacon.js for event handling and stream processing.
-    + Training (`FP <http://cofarrell.bitbucket.org/javafun/>`_ and `FRP <http://cofarrell.bitbucket.org/frp/>`_)
-
-- Heavy contributor to Stash_ developer community:
-
-    + https://answers.atlassian.com/users/15347/charles-o-farrell-atlassian/
-    + https://bitbucket.org/cofarrell/
-
-- Speaker at `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
-
-.. _Stash: https://www.atlassian.com/software/stash
-
-Mincom_
--------
-
-.. _Mincom: http://www.mincom.com/
-
-**Software Engineer Level 4**
-*Mar 2010 - Dec 2011*
-
-**Software Engineer Level 3**
-*Jul 2007 - Feb 2010*
-
-- Extended open-source COBOL to Java library to enhance complex legacy systems
-
-    + https://github.com/charleso/naca
-
-- Replaced HTML and JavaScript heavy site to modern Flex RIA
-- Migrated teams from Clearcase to Git/Ivy to support development in multiple continents
-
-    + Creator of https://github.com/charleso/git-cc/
-
-- Developed internal model-driven tools, transforming UML to Java and Flex artefacts
-
-`The Learning Edge`_
---------------------
-
-.. _The Learning Edge: http://www.thelearningedge.com.au/
-
-**Software Developer**
-*Nov 2003 - Mar 2007*
-
-- Worked closely with peers on a small development team
-- Analysed, designed and developed features based on requirements
-- Maintained versions of products, including regular bug fixing
-- Consulted with customers onsite and implemented tailored solutions
 
 Education
 =========
 
-Bachelor of Computing,  University of Tasmania, *Nov 2003*, **87%**, **GPA 6.67**
+Bachelor of Computing 2003-2008,  Autonomous University of Barcelona
+Executive Master in Innovation 2013 - EOI Madrid
 
-Deans Roll of Excellence, *2001, 2002, 2003*
+Interactive Programming in Python (MOOC Coursera - in course).
+Rhinoceros and Grasshoper course (Fundació CIM – UPC 2015) 
+SolidWorks Course (Fundació CIM – UPC 2015)
+SQL Server 2005 BI course (Net Mind 2009)
+Oracle Hyperion Planning course (Oracle Spain 2010)
+SAP Business Planning and Consolidation course (2011)
+Web pages development course (UAB 2005)
+Visual C++ course (UAB 2005)
 
-*References provided upon request.*
+Skills
+=========
+
+
+
+Abilities
+=========
+Ease teamwork.
+Good ability to adapt and learn new skills
+Creative, positive and proactive person.
