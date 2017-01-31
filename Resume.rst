@@ -6,7 +6,7 @@ Carlos Chavarría Fabón
 
     **email** carlos.chavarria@gmail.com
 
-    **github** `charleso <https://github.com/CarlosChavarria/>`_
+    **github** `CarlosChavarria <https://github.com/CarlosChavarria/>`_
 
 Professional Experience
 =======================
