@@ -71,9 +71,9 @@ Education
 
 Data Science Itinerary (2016-2017)
 ==================
-- Introduction to R
-- Intermediate R
-- Data Manipulation in R with dplyr
+* Introduction to R
+* Intermediate R
+* Data Manipulation in R with dplyr
 * Data visualization in R with ggvis
 * Intro to Statistics with R
 * Intro to Machine Learning
