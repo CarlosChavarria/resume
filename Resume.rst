@@ -10,9 +10,8 @@ Carlos Chavarría Fabón
 
 Professional Experience
 =======================
-
-
-Global Planning Solutions_ https://www.gps-plan.com/
+AGlobal Planning Solutions
+.. _Global Planning Solutions https://www.gps-plan.com/
 -------------------------
 **Junior Developer**
 
