@@ -13,7 +13,7 @@ Professional Experience
 
 
 Global Planning Solutions_ https://www.gps-plan.com/
--------
+-------------------------
 **Junior Developer**
 
 - Development in Visual C++ of WorkPlanner, human resources management tool focused on the sanitary sector. 
@@ -23,7 +23,7 @@ Global Planning Solutions_ https://www.gps-plan.com/
 *2007-2008*
 
 Tactic Key Consulting_ https://www.tactickco.com
-------
+---------------------
 
 **Junior Consultant**
 - Development of Banc Sabadell financial reporting.
@@ -35,7 +35,7 @@ Tactic Key Consulting_ https://www.tactickco.com
     + Business Objects
 
 Finixer Sports Innovation S.L_
-------
+-----------------------------
 **Enterpreneur**
 -Business models researching and business plan development for Finixer, inchoate social network for sportsmen.
 - Content responsible: 
