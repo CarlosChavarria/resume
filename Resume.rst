@@ -57,23 +57,22 @@ Professional Experience
 Education
 =========
 
-Bachelor of Computing 2003-2008,  Autonomous University of Barcelona
-Executive Master in Innovation 2013 - EOI Madrid
++  Bachelor of Computing 2003-2008,  Autonomous University of Barcelona
++ SQL Server 2005 BI course (Net Mind 2009)
++ Oracle Hyperion Planning course (Oracle Spain 2010)
++ SAP Business Planning and Consolidation course (2011)
++ Executive Master in Innovation 2013 - EOI Madrid
++ Visual C++ course (UAB 2005)
++ Web pages development course (UAB 2005)
++ Rhinoceros and Grasshoper (Fundació CIM – UPC 2015) 
++ SolidWorks Course (Fundació CIM – UPC 2015)
 
-Interactive Programming in Python (MOOC Coursera - in course).
-Rhinoceros and Grasshoper (Fundació CIM – UPC 2015) 
-SolidWorks Course (Fundació CIM – UPC 2015)
-SQL Server 2005 BI course (Net Mind 2009)
-Oracle Hyperion Planning course (Oracle Spain 2010)
-SAP Business Planning and Consolidation course (2011)
-Web pages development course (UAB 2005)
-Visual C++ course (UAB 2005)
 
-Data Science Itinerary
+Data Science Itinerary (2016-2017)
 ==================
-+ Introduction to R
+- Introduction to R
 - Intermediate R
-* Data Manipulation in R with dplyr
+- Data Manipulation in R with dplyr
 * Data visualization in R with ggvis
 * Intro to Statistics with R
 * Intro to Machine Learning
@@ -87,15 +86,10 @@ Data Science Itinerary
 * Arima Modelling with R
 * Financial Trading in R
 * Introduction to Machine Learning
-* Machine Learning Toolbox (in progress)
-* Working with Geospatial data in R (in progress)
-* Developing Data Products (in progress)
-
-
-
-
-Skills
-=========
+ `In progress`
+- Machine Learning Toolbox (in progress)
+- Working with Geospatial data in R (in progress)
+- Developing Data Products (in progress)
 
 
 
@@ -107,8 +101,8 @@ Creative, positive and proactive person.
 
 Special Interests
 =================
-Machine Learning
-Deep Learning
-Stock Markets
-Genetics
+* Machine Learning
+* Deep Learning
+* Stock Markets
+* Genetics
 
