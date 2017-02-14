@@ -10,9 +10,13 @@ Carlos Chavarría Fabón
 
 Professional Experience
 =======================
-AGlobal Planning Solutions
-.. _Global Planning Solutions https://www.gps-plan.com/
+
+
+
+`Global Planning Solutions`_
 -------------------------
+.. _Global Planning Solutions: http://www.gps-plan.com/
+
 **Junior Developer**
 
 - Development in Visual C++ of WorkPlanner, human resources management tool focused on the sanitary sector. 
@@ -21,8 +25,9 @@ AGlobal Planning Solutions
 
 *2007-2008*
 
-Tactic Key Consulting_ https://www.tactickco.com
+`Tactic Key Consulting`_ 
 ---------------------
+.. _Tactic Key Consulting : https://www.tactickco.com
 
 **Junior Consultant**
 - Development of Banc Sabadell financial reporting.
@@ -33,8 +38,9 @@ Tactic Key Consulting_ https://www.tactickco.com
     + Oracle Business Intelligence Enterprise Edition and Financial Data Quality Management.
     + Business Objects
 
-Finixer Sports Innovation S.L_
+`Finixer Sports Innovation S.L`_
 -----------------------------
+.. _Finixer : https://www.linkedin.com/company/finixer
 **Enterpreneur**
 -Business models researching and business plan development for Finixer, inchoate social network for sportsmen.
 - Content responsible: 
@@ -54,7 +60,7 @@ Bachelor of Computing 2003-2008,  Autonomous University of Barcelona
 Executive Master in Innovation 2013 - EOI Madrid
 
 Interactive Programming in Python (MOOC Coursera - in course).
-Rhinoceros and Grasshoper course (Fundació CIM – UPC 2015) 
+Rhinoceros and Grasshoper (Fundació CIM – UPC 2015) 
 SolidWorks Course (Fundació CIM – UPC 2015)
 SQL Server 2005 BI course (Net Mind 2009)
 Oracle Hyperion Planning course (Oracle Spain 2010)
