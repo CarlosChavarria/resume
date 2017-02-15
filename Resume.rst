@@ -17,19 +17,19 @@ Professional Experience
 -------------------------
 .. _Global Planning Solutions: http://www.gps-plan.com/
 
-**Junior Developer**
+**Junior Developer** *2007 - 2008*
 
 - Development in Visual C++ of WorkPlanner, human resources management tool focused on the sanitary sector. 
     + Creation of libraries for the product license control.
     + Development of application dialogs.
 
-*2007-2008*
+
 
 `Tactic Key Consulting`_ 
 ---------------------
 .. _Tactic Key Consulting : https://www.tactickco.com
 
-**Junior Business Intelligence Consultant**
+**Junior Business Intelligence Consultant** *2008 - 2012*
 
 - Development of Banc Sabadell financial reporting.
     + Data management and visualization with Cognos BI.
@@ -42,7 +42,7 @@ Professional Experience
 `Finixer Sports Innovation S.L`_
 -----------------------------
 .. _Finixer : https://www.linkedin.com/company/finixer
-**Enterpreneur**
+**Enterpreneur** *2012 - 2015*
 
 - Business model and business plan development for Finixer (inchoate social network for sportsmen).
 - Content responsible. 
@@ -59,17 +59,17 @@ Education
 =========
 
 + Bachelor of Computing 2003-2008,  Autonomous University of Barcelona
-+ SQL Server 2005 BI (Net Mind 2009)
-+ Oracle Hyperion Planning (Oracle Spain 2010)
-+ SAP Business Planning and Consolidation (2011)
-+ Executive Master in Innovation 2013 - EOI Madrid
-+ Visual C++ (UAB 2005)
-+ Web pages development (UAB 2005)
-+ Rhinoceros and Grasshoper (Fundació CIM – UPC 2015) 
-+ SolidWorks (Fundació CIM – UPC 2015)
++ SQL Server 2005 BI - *Net Mind 2009)*
++ Oracle Hyperion Planning - *Oracle Spain 2010*
++ SAP Business Planning and Consolidation - *2011*
++ Executive Master in Innovation - *EOI Madrid 2013*
++ Visual C++ - *UAB 2005*
++ Web pages development - *UAB 2005*
++ Rhinoceros and Grasshoper - *Fundació CIM–UPC 2015*
++ SolidWorks - *Fundació CIM–UPC 2015*
 
 
-Data Science Itinerary (2016-2017)
+Data Science Itinerary *2016 - Present*
 ==================
 * Introduction to R
 * Intermediate R
@@ -91,6 +91,7 @@ Data Science Itinerary (2016-2017)
 - Machine Learning Toolbox
 - Working with Geospatial data in R
 - Developing Data Products
+- Epigenetic Control of Gene Expression
 
 
 
@@ -104,6 +105,6 @@ Special Interests
 =================
 * Machine Learning
 * Deep Learning
-* Stock Markets
+* Stock Markets and Financial Technologies 
 * Genetics
 
