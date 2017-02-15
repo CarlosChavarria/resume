@@ -101,10 +101,11 @@ Abilities
 *  Good ability to adapt and learn new skills.
 *  Creative, positive and proactive person.
 
-Special Interests
+Areas of special interest
 =================
 * Machine Learning
 * Deep Learning
 * Stock Markets and Financial Technologies 
 * Genetics
+* Smart Cities
 
